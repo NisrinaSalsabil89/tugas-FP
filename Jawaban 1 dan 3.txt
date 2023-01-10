@@ -1,0 +1,11 @@
+﻿1. REST adalah singkatan dari representational State Transfer yang merupakan gaya dari arsitektur dari sebuah perangkat lunak yang dibuat untuk mamadukan desain dan pengembangan arsitektur WWW.
+
+3. Headless architecture adalah konsep pengembangan software yang memisahkan lapisan frontend (antarmuka pengguna – UI) dan lapisan backend (logika bisnis) situs web.
+   
+kelebihan Headless architecture
+
+- Time to market yang singkat
+- Setiap fitur dapat ditambahkan dan diuji secara terpisah tanpa mengganggu keseluruhan sistem
+- Setiap bug dapat diperbaiki secara independen dan ditambahkan hanya jika berfungsi dengan baik
+- Setiap tim dapat mengembangkan, menyebarkan dan menskalakan layanannya secara independen dari yang lain
+- Seluruh sistem dibagi menjadi beberapa bagian, membuat proses orientasi pengembang baru menjadi lebih mudah.
